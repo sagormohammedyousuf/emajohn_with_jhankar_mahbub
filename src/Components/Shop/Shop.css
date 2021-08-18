@@ -1,0 +1,20 @@
+.twin-container{
+    display:flex;
+}
+
+.shopping-area{
+    width: 70%;
+    margin-left: 30px;
+    border-right: 1px solid lightgrey;
+}
+
+.shopping-cart{
+    width:25%;
+    text-align:center;
+    
+
+}
+
+.carthr{
+    margin-left: 30px;
+} 

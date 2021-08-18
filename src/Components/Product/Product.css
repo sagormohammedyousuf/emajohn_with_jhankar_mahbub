@@ -1,0 +1,47 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid gray;
+    
+    margin-right: 10px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+
+    
+    
+}
+.img{
+    margin-right: 20px;
+
+}
+.product-detail{
+    
+}
+#pname{
+    font-family: 'Times New Roman', Times, serif;
+    
+    text-align: justify;
+    color: rgb(33, 58, 199);
+    
+
+}
+.btn{
+    
+    background-color:goldenrod; 
+    
+    height: 30px;
+    border: none;
+    width: 150px;
+    border-radius:30px       ;
+    -webkit-border-radius:30px       ;
+    -moz-border-radius:30px       ;
+    -ms-border-radius:30px       ;
+    -o-border-radius:30px       ;
+    font-size:17px;
+    
+}
+.btn:hover{
+    background-color: gold;
+    opacity: 0.7;
+    color: black ;
+    cursor: pointer;
+}

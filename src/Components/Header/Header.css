@@ -1,0 +1,35 @@
+.heading{
+    text-align:center;
+    font-size: 25px;
+   
+
+    
+}
+.logo-area {
+    background-color: rgb(255, 255, 255);
+}
+.heading a{
+    text-decoration: none;
+    color: rgb(245, 235, 235);
+    margin: 20px;
+    padding: 5px;
+
+}
+.heading a:hover{
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.heading img {
+    height: 80px;
+}
+
+.heading nav {
+    background-color: rgb(0, 0, 0);
+    line-height: 50px;
+}
